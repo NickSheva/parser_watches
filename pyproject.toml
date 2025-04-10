@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "lxml>=5.3.2",
+    "prettytable>=3.16.0",
+    "requests>=2.32.3",
 ]
